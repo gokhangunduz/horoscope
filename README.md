@@ -7,4 +7,4 @@
 - JavaScript
 
 ## Canlı Demo
-[URL](https://gokhangunduz.github.io/horoscope/)
+[https://gokhangunduz.github.io/horoscope/](https://gokhangunduz.github.io/horoscope/)
